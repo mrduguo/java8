@@ -1,5 +1,5 @@
 FROM openjdk:8
-ENTRYPOINT ["java", "-jar", "/*.jar"]
+ENTRYPOINT ["java", "-jar", "/app.jar"]
 EXPOSE 8080
 
 #https://stackoverflow.com/questions/34110426/does-java-support-lets-encrypt-certificates

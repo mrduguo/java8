@@ -3,7 +3,7 @@
 ## What's included
 
 
-* Run the jar file in / folder
+* Run the /app.jar file
 * Expose port 8080
 * Added https://letsencrypt.org certs
 
